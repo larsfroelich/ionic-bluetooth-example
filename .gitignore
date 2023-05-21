@@ -1,0 +1,10 @@
+# JetBrains-IDEs
+.idea
+
+# NPM modules
+node_modules
+
+# Ionic files
+
+# Capacitor files
+android
