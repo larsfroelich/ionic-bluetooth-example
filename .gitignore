@@ -8,3 +8,5 @@ node_modules
 
 # Capacitor files
 android
+
+build/
