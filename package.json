@@ -1,0 +1,19 @@
+{
+  "name": "ionic-bluetooth-example",
+  "version": "1.0.0",
+  "description": "Steps used to create this project:\r 1. Create NPM project: ``npm init ``\r 2. Create Ionic project: ``ionic init \"ionic-bluetooth-example\" --type=react``",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlfpx/ionic-bluetooth-example.git"
+  },
+  "author": "Lars Froelich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xlfpx/ionic-bluetooth-example/issues"
+  },
+  "homepage": "https://github.com/xlfpx/ionic-bluetooth-example#readme"
+}
