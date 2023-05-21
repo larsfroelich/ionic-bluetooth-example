@@ -1,5 +1,7 @@
 {
   "name": "ionic-bluetooth-example",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
